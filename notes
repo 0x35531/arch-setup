@@ -1,0 +1,19 @@
+Make Arch linux setup script:
+	- Make and install dwm and slstatus, add dwm to display manager
+	- Make .dwm folder and autostart script with contents
+		> Start feh, clipboard manager, set screen resolution, etc. 
+	- Install and configure display manager
+	- Clone and build AUR manager
+	- Install packages
+	- Install font(s), mostly just JetBrainsMonoNerdFont
+	- Set cursor size and theme 
+	- Set kitty config
+	- Set .bashrc config, especially bash prompt
+
+Required packages:
+qemu virt-manager flameshot neovim neofetch xclip kitty feh dmenu arandr thunderbird steam xorg-xrdb
+
+From the AUR:
+spotify zen-browser-bin vesktop ttf-jetbrains-mono-git
+
+
